@@ -22,7 +22,7 @@ public class VotingController {
 	public ResponseEntity<?> createVote(@RequestBody Vote vote) {
 		// validate
 		String votedItem = vote.getVotedItem();
-		if(vote.getVotedItem() != "Kass" && votedItem != "Koer") {
+		if(!votedItem.equals("Kass") && !votedItem.equals("Koer")) {
 			return new ResponseEntity<>(null, HttpStatus.BAD_REQUEST);
 		}
 		
