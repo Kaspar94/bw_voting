@@ -1,5 +1,5 @@
-/home/kaspar/bitweb/votingapi/src/main/java/votingapi/models/Vote.java
-/home/kaspar/bitweb/votingapi/src/main/java/votingapi/controllers/VotingController.java
-/home/kaspar/bitweb/votingapi/src/main/java/votingapi/Application.java
-/home/kaspar/bitweb/votingapi/src/main/java/votingapi/services/RabbitMqServce.java
-/home/kaspar/bitweb/votingapi/src/main/java/votingapi/config/RabbitMqConfig.java
+/home/kaspar/testimine/bw_voting/src/main/java/votingapi/services/RabbitMqServce.java
+/home/kaspar/testimine/bw_voting/src/main/java/votingapi/config/RabbitMqConfig.java
+/home/kaspar/testimine/bw_voting/src/main/java/votingapi/controllers/VotingController.java
+/home/kaspar/testimine/bw_voting/src/main/java/votingapi/models/Vote.java
+/home/kaspar/testimine/bw_voting/src/main/java/votingapi/Application.java
